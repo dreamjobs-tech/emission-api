@@ -549,7 +549,7 @@
                 "emissionsUnit": "kgCO2e"
             }
         ],
-        "purchasedHeat": [
+        "purchasedHeatingCooling": [
         {
             "entityName": "Bright Future Consulting",
             "reportingYear": 2024,
