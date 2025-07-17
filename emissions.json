@@ -888,7 +888,7 @@
         "capitalGoods": [],
         "fuelAndEnergyRelatedActivities": [],
         "upstreamTransportationAndDistribution": [],
-        "wasteGeneratedInOperations": [
+        "wasteGenerated": [
             {
                 "entityName": "Bright Future Consulting",
                 "reportingYear": 2024,
