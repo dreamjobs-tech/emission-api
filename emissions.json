@@ -7,7 +7,7 @@
         "activityDate": "2024-01-01",
         "activityDescription": "Natural Gas – Heating",
         "scope": 1,
-        "quantity": 400,
+        "quantity": 405,
         "unit": "therms",
         "emissionFactor": 5.3,
         "efSource": "IPCC 2019",
@@ -17,7 +17,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-02-01",
         "activityDescription": "Natural Gas – Heating",
         "scope": 1,
         "quantity": 400,
@@ -30,7 +30,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-03-01",
         "activityDescription": "Natural Gas – Heating",
         "scope": 1,
         "quantity": 400,
@@ -43,7 +43,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-04-01",
         "activityDescription": "Natural Gas – Heating",
         "scope": 1,
         "quantity": 400,
@@ -56,7 +56,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-05-01",
         "activityDescription": "Natural Gas – Heating",
         "scope": 1,
         "quantity": 400,
@@ -69,7 +69,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-06-01",
         "activityDescription": "Natural Gas – Heating",
         "scope": 1,
         "quantity": 400,
@@ -82,7 +82,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-07-01",
         "activityDescription": "Natural Gas – Heating",
         "scope": 1,
         "quantity": 400,
@@ -95,7 +95,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-08-01",
         "activityDescription": "Natural Gas – Heating",
         "scope": 1,
         "quantity": 400,
@@ -108,7 +108,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-09-01",
         "activityDescription": "Natural Gas – Heating",
         "scope": 1,
         "quantity": 400,
@@ -121,7 +121,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-10-01",
         "activityDescription": "Natural Gas – Heating",
         "scope": 1,
         "quantity": 400,
@@ -134,7 +134,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-11-01",
         "activityDescription": "Natural Gas – Heating",
         "scope": 1,
         "quantity": 400,
@@ -147,7 +147,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-12-01",
         "activityDescription": "Natural Gas – Heating",
         "scope": 1,
         "quantity": 400,
@@ -175,7 +175,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-02-01",
         "activityDescription": "Diesel – Delivery Van",
         "scope": 1,
         "quantity": 130,
@@ -188,7 +188,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-03-01",
         "activityDescription": "Diesel – Delivery Van",
         "scope": 1,
         "quantity": 130,
@@ -201,7 +201,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-04-01",
         "activityDescription": "Diesel – Delivery Van",
         "scope": 1,
         "quantity": 130,
@@ -214,7 +214,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-05-01",
         "activityDescription": "Diesel – Delivery Van",
         "scope": 1,
         "quantity": 130,
@@ -227,7 +227,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-06-01",
         "activityDescription": "Diesel – Delivery Van",
         "scope": 1,
         "quantity": 130,
@@ -240,7 +240,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-07-01",
         "activityDescription": "Diesel – Delivery Van",
         "scope": 1,
         "quantity": 130,
@@ -253,7 +253,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-08-01",
         "activityDescription": "Diesel – Delivery Van",
         "scope": 1,
         "quantity": 130,
@@ -266,7 +266,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-09-01",
         "activityDescription": "Diesel – Delivery Van",
         "scope": 1,
         "quantity": 130,
@@ -279,7 +279,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-10-01",
         "activityDescription": "Diesel – Delivery Van",
         "scope": 1,
         "quantity": 130,
@@ -292,7 +292,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-11-01",
         "activityDescription": "Diesel – Delivery Van",
         "scope": 1,
         "quantity": 130,
@@ -305,7 +305,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-12-01",
         "activityDescription": "Diesel – Delivery Van",
         "scope": 1,
         "quantity": 130,
@@ -336,7 +336,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-02-01",
         "activityDescription": "Electricity – Grid",
         "scope": 2,
         "quantity": 3500,
@@ -349,7 +349,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-03-01",
         "activityDescription": "Electricity – Grid",
         "scope": 2,
         "quantity": 3500,
@@ -362,7 +362,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-04-01",
         "activityDescription": "Electricity – Grid",
         "scope": 2,
         "quantity": 3500,
@@ -375,7 +375,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-05-01",
         "activityDescription": "Electricity – Grid",
         "scope": 2,
         "quantity": 3500,
@@ -388,7 +388,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-06-01",
         "activityDescription": "Electricity – Grid",
         "scope": 2,
         "quantity": 3500,
@@ -401,7 +401,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-07-01",
         "activityDescription": "Electricity – Grid",
         "scope": 2,
         "quantity": 3500,
@@ -414,7 +414,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-08-01",
         "activityDescription": "Electricity – Grid",
         "scope": 2,
         "quantity": 3500,
@@ -427,7 +427,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-09-01",
         "activityDescription": "Electricity – Grid",
         "scope": 2,
         "quantity": 3500,
@@ -440,7 +440,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-10-01",
         "activityDescription": "Electricity – Grid",
         "scope": 2,
         "quantity": 3500,
@@ -453,7 +453,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-11-01",
         "activityDescription": "Electricity – Grid",
         "scope": 2,
         "quantity": 3500,
@@ -466,7 +466,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-12-01",
         "activityDescription": "Electricity – Grid",
         "scope": 2,
         "quantity": 3500,
@@ -494,7 +494,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-02-01",
         "activityDescription": "Purchased Steam – Heating",
         "scope": 2,
         "quantity": 80,
@@ -507,7 +507,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-03-01",
         "activityDescription": "Purchased Steam – Heating",
         "scope": 2,
         "quantity": 80,
@@ -520,7 +520,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-04-01",
         "activityDescription": "Purchased Steam – Heating",
         "scope": 2,
         "quantity": 80,
@@ -533,7 +533,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-05-01",
         "activityDescription": "Purchased Steam – Heating",
         "scope": 2,
         "quantity": 80,
@@ -546,7 +546,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-06-01",
         "activityDescription": "Purchased Steam – Heating",
         "scope": 2,
         "quantity": 80,
@@ -559,7 +559,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-07-01",
         "activityDescription": "Purchased Steam – Heating",
         "scope": 2,
         "quantity": 80,
@@ -572,7 +572,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-08-01",
         "activityDescription": "Purchased Steam – Heating",
         "scope": 2,
         "quantity": 80,
@@ -585,7 +585,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-09-01",
         "activityDescription": "Purchased Steam – Heating",
         "scope": 2,
         "quantity": 80,
@@ -598,7 +598,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-10-01",
         "activityDescription": "Purchased Steam – Heating",
         "scope": 2,
         "quantity": 80,
@@ -611,7 +611,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-11-01",
         "activityDescription": "Purchased Steam – Heating",
         "scope": 2,
         "quantity": 80,
@@ -624,7 +624,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-12-01",
         "activityDescription": "Purchased Steam – Heating",
         "scope": 2,
         "quantity": 80,
@@ -654,7 +654,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-02-01",
         "activityDescription": "Office Supplies",
         "scope": 3,
         "quantity": 1200,
@@ -667,7 +667,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-03-01",
         "activityDescription": "Office Supplies",
         "scope": 3,
         "quantity": 1200,
@@ -680,7 +680,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-04-01",
         "activityDescription": "Office Supplies",
         "scope": 3,
         "quantity": 1200,
@@ -693,7 +693,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-05-01",
         "activityDescription": "Office Supplies",
         "scope": 3,
         "quantity": 1200,
@@ -706,7 +706,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-06-01",
         "activityDescription": "Office Supplies",
         "scope": 3,
         "quantity": 1200,
@@ -719,7 +719,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-07-01",
         "activityDescription": "Office Supplies",
         "scope": 3,
         "quantity": 1200,
@@ -732,7 +732,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-08-01",
         "activityDescription": "Office Supplies",
         "scope": 3,
         "quantity": 1200,
@@ -745,7 +745,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-09-01",
         "activityDescription": "Office Supplies",
         "scope": 3,
         "quantity": 1200,
@@ -758,7 +758,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-10-01",
         "activityDescription": "Office Supplies",
         "scope": 3,
         "quantity": 1200,
@@ -789,7 +789,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-02-01",
         "activityDescription": "Waste – Landfill",
         "scope": 3,
         "quantity": 2.5,
@@ -802,7 +802,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-03-01",
         "activityDescription": "Waste – Landfill",
         "scope": 3,
         "quantity": 2.5,
@@ -815,7 +815,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-04-01",
         "activityDescription": "Waste – Landfill",
         "scope": 3,
         "quantity": 2.5,
@@ -828,7 +828,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-05-01",
         "activityDescription": "Waste – Landfill",
         "scope": 3,
         "quantity": 2.5,
@@ -841,7 +841,7 @@
       {
         "entityName": "Bright Future Consulting",
         "reportingYear": 2024,
-        "activityDate": "2024-01-01",
+        "activityDate": "2024-06-01",
         "activityDescription": "Waste – Landfill",
         "scope": 3,
         "quantity": 2.5,
