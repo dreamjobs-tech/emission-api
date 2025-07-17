@@ -499,7 +499,7 @@
                 "emissionFactor": 0.233,
                 "efSource": "EPA 2023",
                 "businessCategory": "Office Operations",
-                "comments": ""
+                "comments": "",
                 "emissions": 321.6,
                 "emissionsUnit": "kgCO2e"
             },
